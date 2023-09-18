@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Tree {
-    private List<Integer> subtrees;
+      private List<Integer> subtrees;
     private Integer root;
 
     public Tree(ArrayList subtrees, int root) {
